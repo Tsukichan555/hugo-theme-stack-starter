@@ -2,7 +2,7 @@
 title: "Artworks"
 date: 2022-03-06
 description: 過去に描いた絵を載せています.
-layout: "archives"
+type: "gallary"
 slug: "artworks"
 menu:
     main:
