@@ -34,8 +34,13 @@ menu:
 - JavaScript
     - React
     - Next.js
+        - Vercel
     - Astro
-    
+- Git
+- GitHub
+- Linux(lsできる程度)
+- Docker
+
 このほかに、C++, PHPをちょろっっっと触ったことがあります．
 
 
